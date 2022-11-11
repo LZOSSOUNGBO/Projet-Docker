@@ -34,3 +34,7 @@ In conclusion, POZOS needs agility on its software farm.
 
 ![image](https://user-images.githubusercontent.com/79446351/201413156-acbb1cfe-1396-41b7-b402-4811a1d12858.png)
 
+
+![image](https://user-images.githubusercontent.com/79446351/201420000-09203017-d92b-48db-9f62-477673dbb7c3.png)
+
+
