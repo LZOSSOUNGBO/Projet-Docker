@@ -5,7 +5,7 @@ FROM python:2.7-stretch
 LABEL maintainer="lorine.zossoungbo@ynov.com"
 
 # Add MongoDB to the repository sources list
-ADD ./Projet-Docker/api /Projet-Docker
+COPY api/student_age.py /
 
 # Update and install python
 RUN apt-get update -y && apt-get install python-dev python3-dev libsasl2-dev python-dev libldap2-dev libssl-dev -y
