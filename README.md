@@ -24,3 +24,9 @@ Currently, the application is running on a single server with any scalability an
 When POZOS needs to deploy a new release, every time some goes wrong.
 
 In conclusion, POZOS needs agility on its software farm.
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/79446351/201412905-eb5cdc2b-6c48-4439-a729-94af3912b489.png)
