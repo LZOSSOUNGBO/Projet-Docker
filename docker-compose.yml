@@ -3,6 +3,7 @@ services:
      Site_Web:
       build: .
       image : php:apache
+      restart: always
       environment:
        USER_NAME: Lorine
        USER_PASSWORD: LOLO12
