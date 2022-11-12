@@ -22,7 +22,6 @@ VOLUME /dir_data
 # Expose the default port
 EXPOSE 5000
 
-# Default port to execute the entrypoint (MongoDB)
 CMD [ "python", "./student_age.py" ]
 
 
