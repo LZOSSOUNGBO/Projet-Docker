@@ -27,7 +27,7 @@ In conclusion, POZOS needs agility on its software farm.
 
 
 
-
+## BUILD AND TEST
 
 ![image](https://user-images.githubusercontent.com/79446351/201412905-eb5cdc2b-6c48-4439-a729-94af3912b489.png)
 
@@ -47,6 +47,30 @@ In conclusion, POZOS needs agility on its software farm.
 ![image](https://user-images.githubusercontent.com/79446351/201430707-57b03e4f-30bd-4723-8ed0-c7eab0c36c47.png)
 
 
+## INFRASTRUCRURE AS CODE
+
 ![image](https://user-images.githubusercontent.com/79446351/201446154-00a3dfa4-0c1b-4f67-9b9c-36ee99048be8.png)
+
+
+![image](https://user-images.githubusercontent.com/79446351/201474897-f461dbdb-f49f-4d07-a200-e9308339c604.png)
+
+
+## REGISTER DOCKER
+
+![image](https://user-images.githubusercontent.com/79446351/201476168-00a3c7f4-1f38-47f0-8ee1-3fbfedea11ba.png)
+
+
+![image](https://user-images.githubusercontent.com/79446351/201476197-3865edeb-40f1-4805-af87-514c5f57c312.png)
+
+
+![image](https://user-images.githubusercontent.com/79446351/201476111-b27f0423-f329-4b2b-b486-b77a024cfc29.png)
+
+
+![image](https://user-images.githubusercontent.com/79446351/201476779-5e76f97f-c8d5-4a22-9ccd-0cebf063b47a.png)
+
+
+![image](https://user-images.githubusercontent.com/79446351/201476854-1e002287-e6b8-44ea-b335-994c2b500140.png)
+
+
 
 
