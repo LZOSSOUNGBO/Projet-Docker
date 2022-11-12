@@ -1,20 +1,22 @@
 version: '2.12.2'
 services:
-     php-apache:
+     Site_Web:
+      build: .
       image : php:apache
-      # environnement:
-      #  - USER_NAME=Lorine
-      #  - USER_PASSWORD=LOLO12
+      environment:
+       USER_NAME: Lorine
+       USER_PASSWORD: LOLO12
       volumes:
-       - ./index.php:/var/www/html
+       - ./website:/var/www/html
       depends_on:
-       - api-pozos
+       - API
       ports: 
        - 8002:8069
 
 
-     api-pozos:
+     API:
       image : api-pozos:0.1
+      restart: always
       volumes:
        - type: bind
          source: api/student_age.json
